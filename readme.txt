@@ -13,3 +13,4 @@ trans_Sim.m , trans_Sim2.m - transient simulation
 
 Run the main.m file for the SPICE simulation
 (include all .m files in same folder) 
+Note: This Code only works for R L G C elements: dc and transient simulations
