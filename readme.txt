@@ -1,7 +1,6 @@
 File Description 
 -----------------------------------------
-CAD_HW1_Graphs - Folder containing all the obtained waveforms
-CAD_HW1.m - Main for parsing and operations
+main.m - Main for parsing and operations
 report.pdf - Brief report with results
 pulse_wave.m - pulse wave generation function
 pwl_wave.m - pwl wave generation function
@@ -12,5 +11,5 @@ string_split_comma.m - string split around comma
 trans_Sim.m , trans_Sim2.m - transient simulation
 --------------------------------
 
-Run the CAD_HW1.m file for the SPICE simulation
+Run the main.m file for the SPICE simulation
 (include all .m files in same folder) 
